@@ -1,7 +1,8 @@
 # SpacePort X
 
-A modular, decentralized orbital hub for interplanetary logistics, energy, and automated cargo launch.  
-This project explores the architecture, physics, and AI systems behind future-ready space infrastructure.
+A modular, decentralized orbital hub for interplanetary logistics, energy, and automated cargo launch.
+
+![SpacePort X Concept Render](diagrams/spaceport_render.png)
 
 ## Modules
 
